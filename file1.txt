@@ -1,0 +1,4 @@
+first change in this file
+this is the starting point of all data in all files
+second change while the file is already in the staging area!
+another change that will not be staged at first
